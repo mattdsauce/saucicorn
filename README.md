@@ -9,6 +9,10 @@ raspberry pi, unicorn phat and a python script = coloured LEDs indicating Sauce 
 
 ... and display coloured status lights accordingly (green=good, red=bad, etc.)
 
+![](IMG_6041.JPG)
+
+demo video: https://www.dropbox.com/s/eb3ok6fbm33bdvb/saucicorn.mov?dl=0
+
 required kit: 
 
  * raspberry pi zero (or a standard pi of some sort) 
