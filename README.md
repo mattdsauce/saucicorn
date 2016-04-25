@@ -1,11 +1,11 @@
 # saucicorn
 raspberry pi, unicorn phat and a python script = coloured LEDs indicating Sauce Labs status etc.
 
- * check if there's internet access
- * verify saucelabs.com is up
- * check status.saucelabs.com for open incidents
- * check how many support tickets I currently have in the 'open' state
- * check how many unassigned support tickets there are in the queues
+ * check if there's internet access (if none, all lights will go red)
+ * verify saucelabs.com is up - top row of lights
+ * check status.saucelabs.com for open incidents - 2nd row of lights
+ * check how many support tickets I currently have in the 'open' state - 3rd row
+ * check how many unassigned support tickets there are in the queues - 4th row
 
 ... and display coloured status lights accordingly (green=good, red=bad, etc.)
 
